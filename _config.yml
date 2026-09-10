@@ -1,3 +1,16 @@
 theme: jekyll-theme-minimal
-title: Maci's homepage
-description: Bookmark this to keep an eye on my project updates!
+title: Maci Kesler
+description: Graduate researcher in nuclear physics | Bookmark this to keep an eye on my project updates!
+logo: /assets/img/profile.jpg
+
+# Navigation links
+navigation:
+  - title: "About"
+    url: /about/
+  - title: "CV"
+    url: /cv/
+  - title: "Projects"
+    url: /projects/
+  - title: "Contact"
+    url: /contact/
+
