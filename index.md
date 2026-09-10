@@ -1,3 +1,8 @@
+---
+layout: home
+title: Home
+---
+
 # Welcome
 
 Hi, I’m Maci Kesler, an advanced graduate researcher in nuclear physics affiliated with Kent State University.  
