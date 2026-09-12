@@ -27,5 +27,5 @@ permalink: /cv/
 - Environment management and dependency conflict resolution
 - ROOT macro debugging and container adaptation (Apptainer/Singularity)
 
-## Contact
+
 For a full CV, download the PDF version: [Download CV](assets/cv/Maci_Kesler_CV.pdf)
