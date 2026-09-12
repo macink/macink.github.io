@@ -28,4 +28,4 @@ permalink: /cv/
 - ROOT macro debugging and container adaptation (Apptainer/Singularity)
 
 
-For a full CV, download the PDF version: [Download CV](assets/cv/Maci_Kesler_CV.pdf)
+For a full CV, download the PDF version: [Download CV](assets/cv/CV_full_2026.pdf)
