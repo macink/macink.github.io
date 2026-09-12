@@ -5,7 +5,7 @@ title: Home
 
 # Welcome
 
-![Profile Image](/assets/img/profile.jpg)
+![Profile Image](assets/img/Kent-Maci_Kesler.jpeg)
 
 Hi, I’m **Maci Kesler**, an advanced graduate researcher in nuclear physics.  
 This site is where I share my CV, projects, and updates.
