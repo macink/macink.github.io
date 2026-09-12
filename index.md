@@ -10,7 +10,7 @@ title: Home
 Hi, I’m **Maci Kesler**, an advanced graduate researcher in nuclear physics.  
 This site is where I share my CV, projects, and updates.
 
-- [About Me](about.md)
+- [About Me](/about/)
 - [Curriculum Vitae](cv.md)
 - [Projects](projects.md)
 - [Contact](contact.md)
