@@ -12,4 +12,6 @@ I’m **Maci Kesler**, an advanced graduate researcher in nuclear physics, affil
 
 My work focuses on modular, reproducible workflows for physics analysis, mentoring students, and designing scalable solutions for complex environments.  
 
+I like outreach.
+
 This page gives a quick overview of my background, research interests, and collaborations.
