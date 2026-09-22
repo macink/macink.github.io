@@ -7,7 +7,7 @@ permalink: /projects/
 Here are the main projects I’m currently involved in:
 
 ## Developing Machine Learning Algorithms to Resolve the Momentum Transfer Distribution in eA Collisions
-- Building architectures that incorporate detector resolution that varies in phase space so the model learns the true momentum transfer (\|t\|) distribution rather than memorizing smeared patterns
+- Building architectures that incorporate detector resolution which varies in phase space so the model can learn the true momentum transfer (\|t\|) distribution rather than memorizing smeared patterns
 - Using Fourier features for data preprocessing to improve learning across a wide dynamic ranges
 - Applying FiLM layers to condition the model's behavior based on event level resolution
 
