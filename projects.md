@@ -18,5 +18,5 @@ Here are the main projects I’m currently involved in:
 
 ## Suppressing Incoherent Background in Exclusive Diffractive eA Processes
 - Utilizing electron beam polarization to isolate coherent vs. incoherent diffractive contributions through spin projection
-- Building the vector meson decay frame and using the projected photon polarization direction so the cos(2&psi) modulation becomes a direct observable of coherent production
-- Measuring the amplitude of the cos(2&psi) term in each |t| bin to extract the coherent fraction of events
+- Building the vector meson decay frame and using the projected photon polarization direction so the cos(2&psi;) modulation becomes a direct observable of coherent production
+- Measuring the amplitude of the cos(2&psi;) term in each |t| bin to extract the coherent fraction of events
