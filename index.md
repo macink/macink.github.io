@@ -9,6 +9,8 @@ title: Home
 
 I’m **Maci Kesler**, a 5th year graduate student and an advanced researcher in nuclear/particle physics. I'm currently affiliated with Kent State University and  the ePIC, H1, and STAR collaborations. My work focuses on nuclear imaging through diffractive scattering and exclusive vector meson production. I primarily develop models and design analysis strategeies. I also mentor students in building machine learning architectures to be integrated into physics studies. I really enjoy outreach activities and sharing the excitement of physics with the broader community.
 
+You can find my CV and an overview of the projects I'm currently working on through the links below.
+
 - [Curriculum Vitae](/cv/)
 - [Projects](/projects/)
 
