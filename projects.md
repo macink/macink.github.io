@@ -12,7 +12,7 @@ Here are the main projects I’m currently involved in:
 - Applying FiLM layers to condition the model's behavior based on event level resolution
 
 ## Investigating Spin Transfer and Projective Techniques in ep Events
-- Verifying our projected$-|t|$ technique on ep data to resolve the t distribution
+- Verifying our projected $|t|$ technique on ep data to resolve the t distribution
 - Studying how spin transfer modifies exclusive final state distributions between longitudinal vs transverse polarizations and coherent vs incoherent events
 - Developing tagging strategies under realistic detector smearing and machine backgrounds.
 
