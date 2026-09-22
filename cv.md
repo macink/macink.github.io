@@ -24,4 +24,5 @@ permalink: /cv/
 - ePIC/EIC Physics Readiness Workshop: “Incoherent Background Suppression in $$\phi$$ Production in e+A Collisions,” University of Calabria, Cosenza, ITA
 
 PDF version of full CV: [Download CV](assets/cv/CV_2026.pdf)
+
 PDF of full publication list: [Download CV](assets/pubs/publicationList_2026.pdf)
