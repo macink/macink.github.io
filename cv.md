@@ -4,12 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-## Education
-- Ph.D. Candidate in Nuclear Physics, Kent State University
-- M.A. in Physics, Kent State University
-- B.S. in Physics, University of Nevada, Las Vegas
-
-## Research Experience
+## Research
 - Specialize in nuclear imaging through diffractive scattering and exclusive vector meson production:
     - developing simulation models
     - integrating results into data analysis
@@ -27,17 +22,5 @@ permalink: /cv/
 - Towards Improved Hadron Femtography, Edition V: “Analysis and Reconstruction Strategies for Exclusive Diffractive eA Physics at ePIC,” University of Virginia, Charlottesville, VA, USA
 - Nuclear Physics Seminar: “Imaging Nuclei Through Exclusive Vector Meson Production,” Brookhaven National Lab, Upton, NY, USA
 - ePIC/EIC Physics Readiness Workshop: “Incoherent Background Suppression in $\phi$ Production in e+A Collisions,” University of Calabria, Cosenza, ITA
-
-## Skills
-- Machine learning: building and debugging advanced PyTorch models for physics applications
-- Data preparation: process generator outputs through detector smearing afterburners, preparing physics datasets, and setting up training/evaluation pipelines
-- Mentoring: guiding students in coding, model design, and reproducible workflows
-- ROOT analysis: using ROOT for particle physics studies, including running macros, adapting analysis code, and producing physics plots
-- Collaborative computing: work across ePIC, H1, and STAR environments for physics analysis
- 
-## Teaching, Mentoring, and Outreach
-- Quantum computing tutorials: helped design tutorials to introduce students to quantum computing and Qiskit
-- Particle physics lecture: delivered an introductory lecture on diffractive physics, allowing complex topics to be approachable for diverse audiences
-- Student mentoring: guided high school and undergraduate students in machine learning architectures and physics motivated analysis
 
 For a full CV, download the PDF version: [Download CV](assets/cv/CV_2026.pdf)
