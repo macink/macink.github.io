@@ -36,7 +36,7 @@ permalink: /cv/
 - Collaborative computing: work across ePIC, H1, and STAR environments for physics analysis
  
 ## Teaching, Mentoring, and Outreach
-- Quantum computing tutorials: helped design accessible tutorials introducing students to quantum algorithms and Qiskit, bridging physics and computation
+- Quantum computing tutorials: helped design tutorials to introduce students to quantum computing and Qiskit
 - Particle physics lecture: delivered an introductory lecture on diffractive physics, allowing complex topics to be approachable for diverse audiences
 - Student mentoring: guided high school and undergraduate students in machine learning architectures and physics motivated analysis
 
