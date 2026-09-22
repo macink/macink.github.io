@@ -8,7 +8,7 @@ permalink: /cv/
 - Specialize in nuclear imaging through diffractive scattering and exclusive vector meson production:
     - developing simulation models
     - integrating results into data analysis
-    - apply resolution‑conditioned machine learning methods
+    - apply resolution conditioned machine learning methods
 - Contributing to early science papers and analysis notes within ePIC, including the first published analysis note
 - Mentoring students in machine learning and physics motivated analysis approaches
 
