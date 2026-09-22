@@ -21,6 +21,6 @@ permalink: /cv/
 ## Recent Presentations
 - Towards Improved Hadron Femtography, Edition V: “Analysis and Reconstruction Strategies for Exclusive Diffractive eA Physics at ePIC,” University of Virginia, Charlottesville, VA, USA
 - Nuclear Physics Seminar: “Imaging Nuclei Through Exclusive Vector Meson Production,” Brookhaven National Lab, Upton, NY, USA
-- ePIC/EIC Physics Readiness Workshop: “Incoherent Background Suppression in $\phi$ Production in e+A Collisions,” University of Calabria, Cosenza, ITA
+- ePIC/EIC Physics Readiness Workshop: “Incoherent Background Suppression in $$\phi$$ Production in e+A Collisions,” University of Calabria, Cosenza, ITA
 
 For a full CV, download the PDF version: [Download CV](assets/cv/CV_2026.pdf)
