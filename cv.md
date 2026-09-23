@@ -5,11 +5,13 @@ permalink: /cv/
 ---
 
 ## Research
-- Specialize in nuclear imaging through diffractive scattering and exclusive vector meson production:
+### I specialize in:
+- Nuclear imaging through diffractive scattering and exclusive vector meson production:
     - developing simulation models
     - integrating results into data analysis
-    - apply resolution conditioned machine learning methods
+    - apply machine learning methods
 - Mentoring students in machine learning and physics motivated analysis approaches
+- Scientific communication through large collaborations
 
 ## Recent Publications
 - Early Science Paper, ePIC Collaboration (2026): contributor to one of the first physics papers from ePIC
