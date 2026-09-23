@@ -4,11 +4,11 @@ title: Projects
 permalink: /projects/
 ---
 
-Current main projects:
+The are my current main projects:
 
 ## Suppressing Incoherent Background in Exclusive Diffractive eA Processes
 This research aims to separate coherent and incoherent production in the momentum transfer distribution from exclusive vector meson production. Determining the fraction of coherent events is essential for nuclear imaging to study phenomena such as the onset of gluon saturation. 
-### Methods:
+*Methods:*
 - Utilizing the electron beam polarization
   - Polarized electron beam provides a controllable spin axis
   - By projecting the event kinematics onto this axis, we can construct a spin‑dependent observable (&psi;) that respond differently to coherent and incoherent events
@@ -20,7 +20,7 @@ This research aims to separate coherent and incoherent production in the momentu
 
 ## Investigating Spin Transfer and Projective Techniques in ep Events
 This work establishes the baseline behavior of spin‑dependent observables in ep systems. Benchmarking these measurements will be crucial for understanding eA physics.
-### Methods:
+*Methods:*
 - Validating the projected‑\|t\| method on ep data
   - Using the technique demonstrated in Phys. Lett. B (DOI: 10.1016/j.physletb.2026.140585), we can test whether the projected‑\|t\| reconstruction reliably recovers the true momentum‑transfer distribution in ep events
   - This serves as a control sample for the eA case
@@ -30,7 +30,7 @@ This work establishes the baseline behavior of spin‑dependent observables in e
 
 ## Developing Machine Learning Algorithms to Resolve the Momentum Transfer Distribution in eA Collisions
 This research aims to build ML models that can reconstruct the true \|t\| distribution from detector smeared distributions.
-### Methods:
+*Methods:*
 - Architectures that incorporate phase‑space dependent detector resolution
   - We embed the event‑level resolution into the model using FiLM conditioning
   - This prevents the network from memorizing smeared patterns and forces it to learn the underlying physics
