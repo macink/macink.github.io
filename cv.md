@@ -4,8 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-## Research
-### I specialize in:
+## My Expertise:
 - Nuclear imaging through diffractive scattering and exclusive vector meson production:
     - developing simulation models
     - integrating results into data analysis
