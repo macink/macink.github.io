@@ -8,8 +8,8 @@ permalink: /cv/
 - Nuclear imaging through diffractive scattering and exclusive vector meson production:
     - developing simulation models
     - integrating results into data analysis
-    - apply machine learning methods
-- Mentoring students in machine learning and physics motivated analysis approaches
+    - applying machine learning methods
+- Mentoring students in machine learning and physics-motivated analysis approaches
 - Scientific communication through large collaborations
 
 ## Recent Publications
