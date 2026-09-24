@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Profile Image](assets/img/Kent-Maci_Kesler.jpeg)
+![Profile Image](assets/img/star.jpeg)
 
 # Welcome
 
