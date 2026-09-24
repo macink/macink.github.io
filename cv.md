@@ -4,7 +4,7 @@ title: CV
 permalink: /cv/
 ---
 
-## My Expertise:
+## My Expertise
 - Nuclear imaging through diffractive scattering and exclusive vector meson production:
     - developing simulation models
     - integrating results into data analysis
