@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Profile Image](assets/img/starv2.jpeg)
+![Profile Image](assets/img/starv2.jpg)
 
 # Welcome
 
