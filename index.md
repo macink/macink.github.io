@@ -3,6 +3,8 @@ layout: default
 title: Home
 ---
 
+![Profile Image](assets/img/valentinesDay.jpeg)
+
 # Welcome
 
 I’m **Maci Kesler**, a 5th year graduate student and advanced researcher in nuclear/particle physics. I'm currently affiliated with Kent State University and  the ePIC, H1, and STAR collaborations. My work focuses on nuclear imaging through diffractive scattering and exclusive vector meson production. 
