@@ -12,7 +12,7 @@ This research aims to separate coherent and incoherent production in the momentu
 *Methods:*
 - Utilizing the electron beam polarization
   - Polarized electron beam provides a controllable spin axis
-  - By projecting the event kinematics onto this axis, we can construct a spin‑dependent observable (&psi;) that respond differently to coherent and incoherent events
+  - By projecting the event kinematics onto this axis, we can construct a spin‑dependent observable (&psi;) that responds differently to coherent and incoherent events
 - Implementing a spin‑projection method to enhance coherent sensitivity
   - Project the virtual photon’s polarization direction into the vector meson decay frame
   - This makes the cos(2&psi;) modulation an experimentally accessible signature of coherent production
@@ -31,7 +31,7 @@ This work establishes the baseline behavior of spin‑dependent observables in e
   - Understand how this differs between coherent and incoherent regimes
 
 ## Developing Machine Learning Algorithms to Resolve the Momentum Transfer Distribution in eA Collisions
-This research aims to build ML models that can reconstruct the true \|t\| distribution from detector smeared distributions.
+This research aims to build ML models that can reconstruct the true \|t\| distribution from detector-smeared distributions.
 
 *Methods:*
 - Architectures that incorporate phase‑space dependent detector resolution
