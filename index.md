@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Profile Image](assets/img/starv2.jpg)
+![Profile Image](assets/img/PGSAvalentines.jpeg)
 
 # Welcome
 
@@ -21,5 +21,3 @@ You can find my CV and an overview of the projects I'm currently working on thro
 - 📧 Email: [macilla3.14159@gmail.com](mailto:macilla3.14159@gmail.com)  
 - 🔗 LinkedIn: [linkedin.com/in/maci-kesler-a45795243](https://linkedin.com/in/maci-kesler-a45795243)  
 - 💻 GitHub: [github.com/macink](https://github.com/macink)
-
-![Profile Image](assets/img/PGSAvalentines.jpeg)
