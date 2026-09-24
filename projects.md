@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-The are my current main projects:
+Here are my current main projects:
 
 ## Suppressing Incoherent Background in Exclusive Diffractive eA Processes
 This research aims to separate coherent and incoherent production in the momentum transfer distribution from exclusive vector meson production. Determining the fraction of coherent events is essential for nuclear imaging to study phenomena such as the onset of gluon saturation. 
