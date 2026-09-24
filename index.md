@@ -18,6 +18,8 @@ You can find my CV and an overview of the projects I'm currently working on thro
 
 # Contact
 
-- 📧 Email: [macilla3.14159@gmail.com](mailto:macilla3.14159@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/maci-kesler-a45795243](https://linkedin.com/in/maci-kesler-a45795243)  
-- 💻 GitHub: [github.com/macink](https://github.com/macink)
+- Email: [macilla3.14159@gmail.com](mailto:macilla3.14159@gmail.com)  
+- LinkedIn: [linkedin.com/in/maci-kesler-a45795243](https://linkedin.com/in/maci-kesler-a45795243)  
+- GitHub: [github.com/macink](https://github.com/macink)
+- Google Scholar: [scholar.google.com](https://scholar.google.com/citations?hl=en&user=fBu9LuAAAAAJ)
+- INSPIRE-HEP: [inspirehep.net](https://inspirehep.net/authors/2893282)
