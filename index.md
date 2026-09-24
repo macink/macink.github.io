@@ -3,7 +3,7 @@ layout: default
 title: Home
 ---
 
-![Profile Image](assets/img/valentines.jpeg)
+![Profile Image](assets/img/PGSAvalentines.jpeg)
 
 # Welcome
 
