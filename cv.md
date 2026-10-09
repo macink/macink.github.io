@@ -23,6 +23,6 @@ permalink: /cv/
 - Nuclear Physics Seminar: “Imaging Nuclei Through Exclusive Vector Meson Production,” Brookhaven National Lab, Upton, NY, USA
 - ePIC/EIC Physics Readiness Workshop: “Incoherent Background Suppression in &phi; Production in e+A Collisions,” University of Calabria, Cosenza, ITA
 
-PDF version of full CV: [Download CV](assets/cv/CV_2026.pdf)
+PDF version of full CV: [Download CV](assets/cv/MKesler_CV.pdf)
 
-PDF of full publication list: [Download CV](assets/pubs/publicationList_2026.pdf)
+PDF of full publication list: [Download CV](assets/pubs/MKesler_publicationList.pdf)
